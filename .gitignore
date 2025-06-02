@@ -275,3 +275,8 @@ poetry.lock
 *.swo
 *.idea/
 .idea/
+
+# =========================
+# Project files
+# =========================
+*/Data/
